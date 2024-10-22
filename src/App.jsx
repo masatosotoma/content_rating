@@ -1,11 +1,9 @@
-import ContentRating from "./Components/ContentRating"
-
+import ContentRating from "./Components/ContentRating";
 function App() {
   return (
-   <>
-  <ContentRating/>
-   </>
-  )
+    <>
+      <ContentRating />
+    </>
+  );
 }
-
-export default App
+export default App;
